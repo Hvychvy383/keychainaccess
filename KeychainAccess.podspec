@@ -17,9 +17,9 @@ Pod::Spec.new do |s|
                            - watchOS and tvOS are also supported
                        DESC
   s.homepage         = 'https://github.com/kishikawakatsumi/KeychainAccess'
-  s.screenshots      = 'https://raw.githubusercontent.com/kishikawakatsumi/KeychainAccess/master/Screenshots/01.png'
+  s.screenshots      = 'https://raw.githubusercontent.com/stephenwilson/KeychainAccess/master/Screenshots/01.png'
   s.license          = 'MIT'
-  s.author           = { 'kishikawa katsumi' => 'kishikawakatsumi@mac.com' }
+  s.author           = { 'stephen Wilson' => 'kishikawakatsumi@mac.com' }
   s.source           = { :git => 'https://github.com/kishikawakatsumi/KeychainAccess.git', :tag => "v#{s.version}" }
   s.social_media_url = 'https://twitter.com/k_katsumi'
 
