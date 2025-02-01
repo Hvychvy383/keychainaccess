@@ -158,7 +158,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 1200;
-				ORGANIZATIONNAME = "kishikawa katsumi";
+				ORGANIZATIONNAME = "Stephen Craig Wilson";
 				TargetAttributes = {
 					14DAEE8F1A51E1BE0070B77E = {
 						CreatedOnToolsVersion = 6.2;
@@ -377,7 +377,7 @@
 				DEVELOPMENT_TEAM = 27AEDK3C9F;
 				INFOPLIST_FILE = "Example-iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kishikawakatsumi.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stephencraigwilson.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
