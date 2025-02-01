@@ -3,8 +3,8 @@
 //  Package.swift
 //  KeychainAccess
 //
-//  Created by kishikawa katsumi on 2015/12/4.
-//  Copyright (c) 2015 kishikawa katsumi. All rights reserved.
+//  Created by Stephen Wilson on 2025/01/31.
+//  Copyright (C) 2025 Stephen Craig Wilson. All rights reserved.
 //
 
 import PackageDescription
