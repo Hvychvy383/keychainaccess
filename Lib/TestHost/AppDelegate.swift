@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  TestHost
 //
-//  Created by kishikawa katsumi on 7/10/16.
-//  Copyright © 2016 kishikawa katsumi. All rights reserved.
+//  Created by Stephen Wilson on 01/31/25.
+//  Copyright © 2025 Stephen Craig Wilson. All rights reserved.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
