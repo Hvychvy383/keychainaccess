@@ -627,7 +627,7 @@ _See [iOS Example Project](https://github.com/kishikawakatsumi/KeychainAccess/tr
 
 ## Author
 
-kishikawa katsumi, kishikawakatsumi@mac.com
+Stephen Craig Wilson, info@applemail-icloud.com
 
 ## License
 
